@@ -18,26 +18,22 @@ Here are some of the key technologies utilized in these projects:
 
 ---
 
-### <span style="color: #4285F4;">🔵 Google Apps Script</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Google_Apps_Script_logo.svg/32px-Google_Apps_Script_logo.svg.png" alt="Google Apps Script Icon" width="20" height="20"/>
+### <img src="https://www.flaticon.com/free-icon/google-apps-script_2965300" alt="Google Apps Script Icon" width="20" height="20"/> Google Apps Script</span>
 * A cloud-based JavaScript platform that lets you build powerful web applications and automate tasks with Google Workspace.
 
 ---
 
-### <span style="color: #E34F26;">🧡 HTML5</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" width="20" height="20"/>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" width="20" height="20"/> HTML5</span>
 * The standard markup language for creating web pages and web applications. Used here for building user interfaces for my Google Apps Script web apps.
 
 ---
 
-### <span style="color: #1572B6;">💙 CSS3</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" width="20" height="20"/>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" width="20" height="20"/> CSS3</span>
 * A stylesheet language used for describing the presentation of a document written in HTML. Used for styling the web app interfaces.
 
 ---
 
-### <span style="color: #F7DF1E;">💛 JavaScript</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="20" height="20"/>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="20" height="20"/> JavaScript</span>
 * A programming language that enables interactive web pages. It powers the client-side logic of my web apps.
 
 ---
