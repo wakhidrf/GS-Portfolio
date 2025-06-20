@@ -19,25 +19,25 @@ Here are some of the key technologies utilized in these projects:
 ---
 
 ### <span style="color: #4285F4;">🔵 Google Apps Script</span>
-![Google Apps Script Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/googleappsscript/googleappsscript-original.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Google_Apps_Script_logo.svg/32px-Google_Apps_Script_logo.svg.png" alt="Google Apps Script Icon" width="20" height="20"/>
 * A cloud-based JavaScript platform that lets you build powerful web applications and automate tasks with Google Workspace.
 
 ---
 
 ### <span style="color: #E34F26;">🧡 HTML5</span>
-![HTML5 Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" width="20" height="20"/>
 * The standard markup language for creating web pages and web applications. Used here for building user interfaces for my Google Apps Script web apps.
 
 ---
 
 ### <span style="color: #1572B6;">💙 CSS3</span>
-![CSS3 Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" width="20" height="20"/>
 * A stylesheet language used for describing the presentation of a document written in HTML. Used for styling the web app interfaces.
 
 ---
 
 ### <span style="color: #F7DF1E;">💛 JavaScript</span>
-![JavaScript Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="20" height="20"/>
 * A programming language that enables interactive web pages. It powers the client-side logic of my web apps.
 
 ---
@@ -57,5 +57,5 @@ This repository is kept private because its contents are highly specific to my p
 
 ## 🔗 Connect With Me
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" width="20" height="20"/> **LinkedIn:** [linkedin.com/in/wakhidrf](https://www.linkedin.com/in/wakhidrf)
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="20" height="20"/> **GitHub:** [github.com/wakhidrf](https://github.com/wakhidrf)
+* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn Icon" width="20" height="20"/> **LinkedIn:** [linkedin.com/in/wakhidrf](https://www.linkedin.com/in/wakhidrf)
+* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub Icon" width="20" height="20"/> **GitHub:** [github.com/wakhidrf](https://github.com/wakhidrf)
