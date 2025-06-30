@@ -45,7 +45,7 @@ function downloadFilteredDataToDrive(filterValue) {
   var header = values[0];
   var dataRows = values.slice(1);
 
-  // **** MODIFIKASI: Kolom C adalah indeks 2 (0-indexed). ****
+  // **** MODIFIKASI: Kolom E adalah indeks 4 (0-indexed). ****
   var columnIndexToFilter = 4; // E adalah kolom ke-5, jadi indeksnya 4.
 
   var filteredDataRows = dataRows.filter(function(row) {
@@ -69,8 +69,16 @@ function downloadFilteredDataToDrive(filterValue) {
     return 'Error: Folder "' + folderName + '" not found in your Google Drive. Please create it or change the folder name in the script.';
   }
 
-  var newSpreadsheetName = (filterValue.replace(/[^a-zA-Z0-9 ]/g, '') || 'FilteredData') + '_' + Date.now();
-  newSpreadsheetName = newSpreadsheetName.replace(/\s+/g, '_').substring(0, 90);
+  // --- START MODIFIKASI NAMA FILE ---
+  var academicPeriod = "2024/2025 Genap";
+  var surveyTitle = "Kepuasan Mahasiswa Terhadap Layanan Akademik";
+  // Membersihkan filterValue agar sesuai untuk nama file (menghapus karakter khusus dan mengganti spasi dengan _)
+  var cleanedFilterValue = filterValue.replace(/[^a-zA-Z0-9 ]/g, '').replace(/\s+/g, '_');
+  
+  var newSpreadsheetName = `${academicPeriod}_${cleanedFilterValue}_${surveyTitle}`;
+  // Pastikan nama file tidak terlalu panjang (Google Drive memiliki batasan panjang nama file)
+  newSpreadsheetName = newSpreadsheetName.substring(0, 90); 
+  // --- END MODIFIKASI NAMA FILE ---
 
   try {
     // Buat spreadsheet baru di root Drive terlebih dahulu
