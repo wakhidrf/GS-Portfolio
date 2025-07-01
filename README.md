@@ -31,7 +31,7 @@ Here are some of the key technologies utilized in these projects:
 ## 📂 What You'll Find
 
 * **Google Apps Script Files (.gs):** These files contain the core logic for automation, including functions to interact with Google Sheets, Gmail, Google Drive, and other Google services.
-* **HTML Files (index.html):** These files are used to create custom user interfaces for web applications deployed via Google Apps Script, providing a more intuitive way to trigger and manage automations.
+* **HTML Files (.html):** These files are used to create custom user interfaces for web applications deployed via Google Apps Script, providing a more intuitive way to trigger and manage automations.
 
 ---
 
