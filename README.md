@@ -2,13 +2,13 @@
 
 ---
 
-Welcome to my personal GS-Portfolio repository! This repository houses a collection of Google Apps Script and HTML code designed to automate various aspects of my daily work. It serves as a private record of my automation projects, helping me streamline tasks and improve efficiency.
+Welcome to my personal GS-Portfolio repository! This repository houses a collection of Google Apps Script and HTML code designed to automate various aspects of my daily work. It serves as a record of my automation projects, helping me streamline tasks and improve efficiency.
 
 ---
 
 ## 🚀 About This Repository
 
-This repository is a private collection of scripts and web app interfaces tailored to my specific professional needs. While the code here is highly customized for my workflows, it demonstrates the power of Google Apps Script for automation and integration within the Google ecosystem.
+This repository is a collection of scripts and web app interfaces tailored to my specific professional needs. While the code here is highly customized for my workflows, it demonstrates the power of Google Apps Script for automation and integration within the Google ecosystem.
 
 ---
 
@@ -18,7 +18,7 @@ Here are some of the key technologies utilized in these projects:
 
 ---
 
-### <img src="https://www.flaticon.com/free-icon/google-apps-script_2965300" alt="Google Apps Script Icon" width="20" height="20"/> Google Apps Script</span>
+### <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-3MG3mFcK1L7h5YD0Cgq36v-07b7abd2909e1389a54962bd6c3c99ed-AppsScript-title-logo.svg" alt="Google Apps Script Icon" width="20" height="20"/> Google Apps Script</span>
 * A cloud-based JavaScript platform that lets you build powerful web applications and automate tasks with Google Workspace.
 
 ---
@@ -28,26 +28,10 @@ Here are some of the key technologies utilized in these projects:
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" width="20" height="20"/> CSS3</span>
-* A stylesheet language used for describing the presentation of a document written in HTML. Used for styling the web app interfaces.
-
----
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="20" height="20"/> JavaScript</span>
-* A programming language that enables interactive web pages. It powers the client-side logic of my web apps.
-
----
-
 ## 📂 What You'll Find
 
 * **Google Apps Script Files (.gs):** These files contain the core logic for automation, including functions to interact with Google Sheets, Gmail, Google Drive, and other Google services.
 * **HTML Files (index.html):** These files are used to create custom user interfaces for web applications deployed via Google Apps Script, providing a more intuitive way to trigger and manage automations.
-
----
-
-## 🔒 Why a Private Repository?
-
-This repository is kept private because its contents are highly specific to my personal work processes and may contain sensitive information related to my tasks. It acts as a version-controlled backup and an organized reference for my automation efforts.
 
 ---
 
